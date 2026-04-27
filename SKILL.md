@@ -1,3 +1,8 @@
+---
+name: bruno-ai-context
+description: Expert AI assistant context for Bruno API Client, supporting YAML and OpenCollection formats for HTTP, gRPC, and more.
+---
+
 # Bruno API Client - AI Assistant Context (YAML / OpenCollection Format)
 
 ## What is Bruno?
